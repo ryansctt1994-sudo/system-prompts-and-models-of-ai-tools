@@ -1,5 +1,5 @@
 ~debug:
-  lastInferenceUsage: *ref_0
+  lastInferenceUsage: null # original export referenced *ref_0, whose anchor was not captured
   lastInferenceInput:
     model: gpt-5
     ~debugParamsUsed:
